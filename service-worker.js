@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hacktech2020-website-deploy/precache-manifest.7ceac902babfe3f6d62e98e38a369518.js"
+  "/hacktech2020-website-deploy/precache-manifest.256ceff77ce1458fa1b7dd534692c095.js"
 );
 
 self.addEventListener('message', (event) => {
