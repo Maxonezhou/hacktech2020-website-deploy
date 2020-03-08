@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hacktech2020-website-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hacktech2020-website-deploy/static/js/main.f3313cc9.chunk.js",
+    "main.js.map": "/hacktech2020-website-deploy/static/js/main.f3313cc9.chunk.js.map",
+    "runtime-main.js": "/hacktech2020-website-deploy/static/js/runtime-main.19e52e45.js",
+    "runtime-main.js.map": "/hacktech2020-website-deploy/static/js/runtime-main.19e52e45.js.map",
+    "static/js/2.1e532f28.chunk.js": "/hacktech2020-website-deploy/static/js/2.1e532f28.chunk.js",
+    "static/js/2.1e532f28.chunk.js.map": "/hacktech2020-website-deploy/static/js/2.1e532f28.chunk.js.map",
+    "index.html": "/hacktech2020-website-deploy/index.html",
+    "precache-manifest.7ceac902babfe3f6d62e98e38a369518.js": "/hacktech2020-website-deploy/precache-manifest.7ceac902babfe3f6d62e98e38a369518.js",
+    "service-worker.js": "/hacktech2020-website-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hacktech2020-website-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1e532f28.chunk.js.LICENSE.txt": "/hacktech2020-website-deploy/static/js/2.1e532f28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e52e45.js",
+    "static/js/2.1e532f28.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f3313cc9.chunk.js"
+  ]
+}
